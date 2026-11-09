@@ -1,0 +1,6 @@
+transaction_date,vendor_name,amount,payment_reference,category
+2026-10-01,ABC Supplies,5000.00,REF-1001,Office
+2026-10-02,Northwind Services,8500.00,REF-1002,Services
+2026-10-03,ABC Supplies,5000.00,REF-1001,Office
+2026-10-04,Metro Equipment,125000.00,REF-1004,Equipment
+2026-10-05,City Utilities,2200.00,REF-1005,Utilities
